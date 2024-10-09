@@ -43,7 +43,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 疾风云官网
 
-[疾风云最新官网](https://go.51tz.cc/jfcloud)
+[疾风云最新官网](https://go.1vpn.cc/jife)
 
 #### 疾风云套餐价格
 
