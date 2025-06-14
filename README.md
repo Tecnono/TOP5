@@ -13,18 +13,7 @@
 * 注意机场的倍率，2 倍率就是用 1M 算你 2M 流量，如果看到10倍率机场直接屏蔽远离。
 * 相比直连机场更加推荐购买中转机场。中转机场带宽大，专线主要是不过墙延迟低，专线机场日常使用体验会更丝滑更舒服。机场比的是钞能力，速度要看机场的总带宽大小。稳定要看机场的资源质量，主要是看机场主的上游的线路质量，解锁看的是机场主的落地/解锁商是否优秀。机场带宽大和稳定性最重要。
 * 对于中转机场而言，协议不是最重要的，中转机子的稳定性和带宽大小才是。
-* 备用很重要，如果经常需要科学上网，那么就不能只有一个机场，建议多找几个备用[VPN梯子](https://2025vpn.gitbook.io/vpn-03)。
-
----
-
-## 科学上网客户端推荐
-
-* **Windows:** [Clsah Verge](https://iheikeji.com/bgfw/tools/clash-verge.html) / [Clash for Windows](https://iheikeji.com/bgfw/tools/clash-for-windows.html) / [v2rayN](https://iheikeji.com/bgfw/tools/v2rayn.html) / WinXray / NekoRay / sing-box
-* **macOS:** [Clsah Verge](https://iheikeji.com/bgfw/tools/clash-verge.html)  / [Clash for Windows](https://iheikeji.com/bgfw/tools/clash-for-windows.html) / ClashX / ClashX Pro / [Stash](https://iheikeji.com/bgfw/tools/stash%e6%95%99%e7%a8%8b.html) / V2rayU / [Quantumult X](https://iheikeji.com/bgfw/tools/quantumult-x.html) / sing-box
-* **iOS:** [Shadowrocket](https://iheikeji.com/bgfw/tools/shadowrocket.html) / Quantumult_ / [Quantumult X](https://iheikeji.com/bgfw/tools/quantumult-x.html) / [Stash](https://iheikeji.com/bgfw/tools/stash%e6%95%99%e7%a8%8b.html) / Potatso Lite / sing-box
-* **Android:** v2rayNG / [Clash for Android](https://iheikeji.com/bgfw/tools/clash-for-android.html) / NekoBox for Android / sing-box / Surfboard
-* **Linux:** [Clsah Verge](https://iheikeji.com/bgfw/tools/clash-verge.html)  / [Clash for Windows](https://iheikeji.com/bgfw/tools/clash-for-windows.html) / NekoRay / sing-box
-* **路由器:** OpenClash / PassWall2 / ShadowsocksR Plus+
+* 备用很重要，如果经常需要科学上网，那么就不能只有一个机场，建议多找几个备用[VPN梯子]。
 
 
 ---
@@ -43,7 +32,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 疾风云官网
 
-[疾风云最新官网](https://go.1vpn.cc/jife)
+
 
 #### 疾风云套餐价格
 
@@ -71,7 +60,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，不限宽带�
 
 #### 耐思云官网
 
-[耐思云最新官网](https://go.1vpn.cc/nisi)
+
 
 #### 耐思云套餐价格
 
@@ -98,7 +87,6 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 速云梯官网
 
-[速云梯最新官网](https://go.1vpn.cc/suyu)
 
 #### 速云梯套餐价格
 
@@ -126,7 +114,6 @@ Soda苏打云机场是一家成立于2022年的翻墙机场，采用流行的Sha
 
 #### 苏打云机场官网
 
-[苏打云机场最新官网](https://go.1vpn.cc/soda)
 
 #### 苏打云机场套餐价格
 
@@ -151,7 +138,7 @@ CyberGuard机场除常规月付套餐，也提供不限时长的按量付费流�
 
 #### CyberGuard机场官网
 
-[CyberGuard机场最新官网](https://go.1vpn.cc/cybg)
+
 
 #### CyberGuard机场套餐价格
 
@@ -172,7 +159,7 @@ CyberGuard机场除常规月付套餐，也提供不限时长的按量付费流�
 ---
 
 
-免责声明： 本文所介绍的[机场梯子VPN](https://gitlab.com/best_vpn1/2024-vpn)请只限用于正常外贸商务、新媒体、游戏娱乐、学习交流，切勿用在违法犯罪用途，用户请自觉遵守当地法律法规，出现一切后果本项目作者概不负责。
+免责声明： 本文所介绍的[机场梯子VPN]请只限用于正常外贸商务、新媒体、游戏娱乐、学习交流，切勿用在违法犯罪用途，用户请自觉遵守当地法律法规，出现一切后果本项目作者概不负责。
 
 2025翻墙机场 #机场推荐 #SS/SSR机场 #机场加速器购买 #V2ray机场梯子 #Trojan机场 #Clash节点VPN #翻墙加速器 #好用的便宜梯子 #翻墙梯子 #高性价比梯子 #稳定梯子推荐 #手机电脑梯子 #外网梯子 #外贸梯子
 
